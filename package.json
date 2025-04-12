@@ -1,6 +1,6 @@
 {
   "name": "midi-control-mcp",
-  "version": "0.9.0",
+  "version": "0.1.0",
   "description": "A Model Context Protocol server for MIDI device control",
   "private": true,
   "type": "module",
